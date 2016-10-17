@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+
+body {
+  background-color: #4862A3;
+  font-style: white;
+}
+
+.main{
+	width: 960px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+h3{
+	text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.form{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.radio{
+      margin-left: 50px;
+}
+input[type="radio"]{
+     margin-top: 10px;
+}
+
+input[type="submit"]{
+	margin-bottom: 80px;
+    margin-top: 30px;
+    width: 100px;
+    height: 30px;
+    margin-left: 280px;
+}
+p{
+    font-size: 20px;
+}

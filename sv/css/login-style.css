@@ -1,0 +1,96 @@
+/*
+.form {
+	width: 300px;
+    margin: 200px auto 30px;
+    padding: 10px;
+    position: relative; 
+  
+    
+    box-shadow:
+        0 0 1px rgba(0, 0, 0, 0.3),
+        0 3px 7px rgba(0, 0, 0, 0.3),
+        inset 0 1px rgba(255,255,255,1),
+        inset 0 -3px 2px rgba(0,0,0,0.25);
+    border-radius: 5px;
+    background: linear-gradient(#eeefef, #ffffff 10%);
+    font-family: 'Open Sans', sans-serif;
+}
+*/
+body {
+  background-color: #4862A3;
+}
+
+
+.form{
+  width: 350px;
+  height: 420px;
+  background: #CECECE;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: auto;
+  padding: 50px;
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+}
+
+.dangnhap{
+     font-size: 25px;
+    margin-left: 100px;
+    font-weight: bold;
+}
+
+
+input[type="text"]{
+  display: block;
+  width: 309px;
+  height: 20px;
+  margin: 10px auto;
+  background: #fff;
+  border: 0px;
+  padding: 5px;
+  font-size: 14px;
+  border: 2px solid #fff;
+  transition: all 0.3s ease;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+
+label {
+	display: inline;
+	margin: 15px auto;
+
+	padding: 5px;
+	font-size: 15px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.l1 {
+	margin-left: 10px;
+	color: #0C6A96;
+}
+
+.l2 {
+	color: #044C6D;
+}
+
+button[type="submit"]{
+  display: block;
+  background: #4862A3;
+  width: 250px;
+  padding: 12px;
+  cursor: pointer;
+  color: #fff;
+  border: 0px;
+  margin: auto;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  font-size: 17px;
+  transition: all 0.3s ease;
+}
+
+input[type="submit"]:hover{
+  background: #09cca6
+}

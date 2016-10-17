@@ -1,0 +1,3 @@
+﻿Mật khẩu được mã hóa MD5 2 lớp.
+- Mã hóa chuỗi mật khẩu được đầu ra là chuỗi md5 
+- Nối chuỗi magv (username) vào cuối chuỗi md5 vừa nhận được đem mã hóa lần nữa, đó là chuỗi mật khẩu mã hóa sau cùng.

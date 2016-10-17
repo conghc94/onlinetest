@@ -1,0 +1,59 @@
+/* 
+    Created on : May 11, 2016, 5:13:46 PM
+    Author     : ds_mu
+*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font: tahoma;
+}
+
+#header {
+    width: 1000px;
+    margin: auto;
+}
+
+#header .login_status {
+    width: 1000px;
+    height: 20px;
+    background-color: #365899;
+    font-size: 16px;
+    text-align: right;
+    padding-top: 5px;
+}
+
+.login_status a{
+    color: #e5e5e5;
+    text-decoration: none;
+    padding-right: 15px;
+}
+
+#header .menu {
+    width: 1000px;
+    height: 45px;
+    background-color: #365899;
+}
+
+.menu ul {
+    list-style: none;
+    font-size: 18px;
+}
+
+.menu ul a {
+    float: left;
+    text-decoration: none;
+    color: #e5e5e5;
+    line-height: 45px;
+    display: block;
+    border-right: 1px solid #e5e5e5;
+    padding: 0px 20px 0px 20px;
+    text-transform: uppercase;
+}
+
+.menu ul a:hover {
+    background: #4068b2;
+}

@@ -1,0 +1,50 @@
+.content {
+	width:600px;
+	background:#CECECE;
+	margin: auto;
+	text-align:left; 
+	border-radius: 5px;
+	display: block;
+	font-family: 'Open Sans', Sans-Serif;
+}
+
+.text {
+	padding: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+body {
+	background-color: #4862A3;
+	padding: 50px;
+	font-size: 14px;
+}
+
+h3, p {
+	font-family: 'Open Sans', Sans-Serif;
+	color: #353535;
+}
+
+dl {
+	padding: 1em;
+}
+
+dt {
+	float: left;
+	clear: left;
+	width: 100px;
+	text-align: right;
+	font-weight: bold;
+	color: #044C6D;
+
+}
+
+dt:after {
+	content: ":";
+}
+
+dd {
+	color: #5B5B5B;
+	margin: 0 0 0 110px;
+	padding: 0 0 0.5em 0;
+}

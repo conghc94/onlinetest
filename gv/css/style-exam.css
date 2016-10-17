@@ -1,0 +1,79 @@
+/* 
+    Created on : May 11, 2016, 5:38:27 PM
+    Author     : ds_mu
+*/
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#main_content {
+    
+    width: 1000px;
+    height: 590px;
+    margin: auto;
+    background: #e4e7f1;
+    
+}
+/*
+#title {
+    width: 1000px;
+    
+}
+*/
+#main_content h2 {
+    padding-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+    color: #333333;
+    text-align: center;
+}
+
+#main_content button {
+    background-color: #87a6ff;
+    background: url(../img/bg_upload.png) no-repeat;
+    padding: 10px;
+    padding-left: 48px;
+    padding-right: 20px;
+    color: #333333;
+    font-size: 16px;
+    font-weight: bold;
+    border: 2px solid #fff;
+    border-radius: 7px;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}
+
+#main_content button:hover {
+    background-color: #87a6ff;
+    background: url(../img/bg_upload2.png) no-repeat;
+}
+
+#main_content button {
+    margin: 20px auto 25px 10px;
+}
+
+
+#main_content table {
+    
+    background-color: white;
+    margin: auto 10px auto 10px;
+}
+
+#main_content table th {
+    background-color: #87a6ff;
+}
+
+#main_content th, td {
+    padding: 5px;
+    padding-left: 10px;
+}
+
+/* Màu xen kẽ*/
+#main_content tr:nth-child(even){
+    background-color: #f2f2f2
+}
+

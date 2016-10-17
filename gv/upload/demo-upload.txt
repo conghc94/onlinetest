@@ -1,0 +1,18 @@
+﻿Đâu là thủ đô của Việt Nam 
+%Hà Nội
+&Huế
+&Đà Nẵng
+&TP. HCM
+%A
+`2+2=?
+%1
+&2
+&3
+&4
+%B
+`Chỉ số của mảng bắt đầu từ số mấy
+%-1
+&0
+&1
+&0 hoặc 1
+%B
